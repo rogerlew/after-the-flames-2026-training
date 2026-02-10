@@ -1,0 +1,4 @@
+_other_resources/WEPP_training_SLC_2025/*.pptx filter=lfs diff=lfs merge=lfs -text
+_other_resources/WEPP_training_SLC_2025/*.pdf filter=lfs diff=lfs merge=lfs -text
+_other_resources/WEPP_training_SLC_2025/*.xlsm filter=lfs diff=lfs merge=lfs -text
+_other_resources/WEPP_training_SLC_2025/*.tif filter=lfs diff=lfs merge=lfs -text
