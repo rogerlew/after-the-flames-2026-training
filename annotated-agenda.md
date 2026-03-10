@@ -8,15 +8,21 @@
 
 - Erin's talk currently 55 slides (roger cull slides)
 - WEPPcloud introduction: what is it?
--
+- models available on WEPPcloud:
+  - WEPP
+  - WATAR
+  - Debris Flow
+  - WEPP/SWAT+
 
 ## 1:30 PM – 2:30 PM | WEPPcloud Walkthrough (60 min)
 
 - selective hybrid slideshow (with informative bulleted points) and live walkthrough of parameterization and features
 -
--
+- 
 
-## 2:30 PM – 2:45 PM | OMNI Walkthrough (15 min, Jackson) 
+## 2:30 PM – 2:45 PM | Break (15 min)
+
+## 2:45 PM – 3:00 PM | OMNI Walkthrough (15 min, Jackson)
 
 - Introduction
   - Why did it come about
@@ -32,8 +38,6 @@
   - Modes
   - (avoid technical details)
   - Caveat: take a long time
-
-## 2:45 PM – 3:00 PM | Break (15 min)
 
 ## 3:00 PM – 3:30 PM | PATH Presentation (30 min)
 
