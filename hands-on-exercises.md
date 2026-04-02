@@ -121,7 +121,7 @@ Continuing with the Gate Creek watershed.
 
 ## Exercise 6: Finding Hillslopes Data 
 
-**Report** https://jackson-nakae.github.io/PATH-cost-effective/
+**Report:** https://jackson-nakae.github.io/PATH-cost-effective/
 
 **Question:** Find two hillslopes with different treatments and record their slope, burn severity, acerage, and final sediment yield.
 
@@ -141,7 +141,7 @@ Continuing with the Gate Creek watershed.
 
 ## Exercise 7: Hillslopes that exceed the Sediment Yield Threshold
 
-**Report**https://jackson-nakae.github.io/PATH-cost-effective/
+**Report:** https://jackson-nakae.github.io/PATH-cost-effective/
 
 **Question:** Determine the minimum hillslope sediment yield threshold value that results in no hillslopes exceeding the sdyd threshold.
 
