@@ -4,7 +4,7 @@
 
 **After the Flames 2026 — Workshop II**
 
-**Monday, April 6, 2026 | 1:00 PM -- 5:00 PM | Owens A**
+**Monday, April 6, 2026 · 1:00 PM -- 5:00 PM · Owens A**
 
 ---
 
