@@ -103,7 +103,7 @@
         
 ## 2:30 PM – 2:45 PM | Break (15 min)
 
-## 2:45 PM – 3:00 PM | OMNI Walkthrough (15 min, Jackson) slides
+## 2:45 PM – 3:15 PM | OMNI Walkthrough (30 min, Jackson) slides
 
 - Introduction
   - Why did it come about
@@ -120,7 +120,7 @@
   - (avoid technical details)
   - Caveat: take a long time
 
-## 3:00 PM – 3:30 PM | PATH Presentation (30 min)
+## 3:15 PM – 3:30 PM | PATH Presentation (15 min)
 
 - Motivation and background
 - The what and how? 
