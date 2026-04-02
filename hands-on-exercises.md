@@ -119,7 +119,7 @@ Continuing with the Gate Creek watershed.
 
 ---
 
-## Exercise 6: Finding Hillslopes Data 
+## Exercise 6: Finding Hillslope Data 
 
 **Report:** https://jackson-nakae.github.io/PATH-cost-effective/
 
