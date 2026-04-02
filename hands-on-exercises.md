@@ -155,8 +155,6 @@ Continuing with the Gate Creek watershed.
 
 **What you should find:** Once the Hillslope Sediment Yield Threshold reaches a value of **9 tons/acre** there are no longer any hillslopes outlined in red. This means that after the recommended treatments all hillslopes considered for treatment will meet this threshold.
 
----
-
 ## You May Notice ##
 
 After exploring the features of this interactive map in section 3.1 may notice that even under the strictest threshold values not all hillslopes in the catchment are recieving treatment. This is because for this example PATH used Omni Contrasts Cumalative Objective Parameter mode with a 90% Cumulative Objective Threshold Fraction on Soil Loss. Therefore the only hillslopes considered for treatment are those that contribute to soil loss up to this threshold.
