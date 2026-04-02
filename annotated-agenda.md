@@ -59,7 +59,7 @@
 
 ## 1:50 PM – 2:30 PM | WEPPcloud Primer (40 min)
   - Creating a run
-    - Orientation to the run page
+    - Orientation to the run page (UI orientation)
       - Name
       - Scenario
       - README
@@ -69,8 +69,8 @@
         - what are mods
       - More menu
     - File/Directory based projects
-      - Open/transparent through fiile browser
-      - orientation to directory structure
+      - Open/transparent through file browser
+      - Orientation to directory structure
       - nodb files
     - Integrated documentation
   - Quick start walk through with WEPPcloud-WBT
@@ -138,6 +138,7 @@
 - Return Periods
 - Single-storm analyzer
 - GL-Dashboard
+- WEPP Interchange parquet files
 
 ## 4:15 PM – 4:40 PM | Hands-On Exercises (40 min)
 
@@ -146,7 +147,8 @@
 
 ## 4:40 PM – 5:00 PM Takeaways / Discussion (20 min)
 
-- Resources (contacts, documentation, youtube)
+- Resources (contacts, documentation, youtube, literature references)
+- Credit wildfire and watersheds project
 - Final questions
 - Follow-up
 - What features make you want to use the tool?

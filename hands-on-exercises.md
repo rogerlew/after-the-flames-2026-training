@@ -12,24 +12,26 @@ Use the pre-loaded WEPPcloud project to answer the questions below. Work individ
 
 ## Exercise 1: Exploring Soil Properties Across the Watershed
 
-**Project:** https://wepp.cloud/weppcloud/runs/neurogenic-pendant/disturbed9002_wbt/
+**Project:** [neurogenic-pendant/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/neurogenic-pendant/disturbed9002_wbt/)
 
 **Question:** Does the lower end of the watershed have more or less rock content than the upper portion?
 
 **Steps:**
 
-1. From the project run page, navigate to the **WEPP Run Results** section
+1. From the project run page, navigate to the **Run Results** section by clicking on **WEPP** in the **Preflight and navigation** panel and then look for the **Run Results** section after **WEPP**
 2. Open the **GL-Dashboard** and wait for it to load
 3. Go to the **Soils** section and select **"Rock content (%)"** to display the choropleth map
 4. Hover over hillslopes in the upper and lower portions of the watershed to compare their rock content values
 
 **What you should find:** The lower portion of the watershed has notably lower rock content than the upper portion.
 
+**For fun:** Explore other soil properties!
+
 ---
 
 ## Exercise 2: Identifying Burn Severity Distribution
 
-**Project:** https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/
+**Project:** [aversive-forestry/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/)
 
 This is the Gate Creek watershed using the Holiday Farm Soil Burn Severity (SBS) map.
 
@@ -47,7 +49,7 @@ This is the Gate Creek watershed using the Holiday Farm Soil Burn Severity (SBS)
 
 ## Exercise 3: Return Periods and Storm Event Analysis
 
-**Project:** https://wepp.cloud/weppcloud/runs/weatherproof-pickpocket/disturbed9002_wbt/
+**Project:** [weatherproof-pickpocket/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/weatherproof-pickpocket/disturbed9002_wbt/)
 
 This is the Blackwood watershed at Lake Tahoe.
 
@@ -67,7 +69,7 @@ This is the Blackwood watershed at Lake Tahoe.
 
 ## Exercise 4: Comparing Burned vs. Unburned Soil Loss with OMNI
 
-**Project:** https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/
+**Project:** [aversive-forestry/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/)
 
 This is the Gate Creek watershed (Holiday Farm fire) — the same project from Exercise 2.
 
@@ -99,7 +101,7 @@ This is the Gate Creek watershed (Holiday Farm fire) — the same project from E
 
 ## Exercise 5: Finding the Highest Soil Loss Hillslope
 
-**Project:** https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/
+**Project:** [aversive-forestry/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/)
 
 Continuing with the Gate Creek watershed.
 
@@ -121,7 +123,7 @@ Continuing with the Gate Creek watershed.
 
 ## Exercise 6: Finding Hillslope Data 
 
-**Report:** https://jackson-nakae.github.io/PATH-cost-effective/
+**Report:** [PATH Cost-Effective Report](https://jackson-nakae.github.io/PATH-cost-effective/)
 
 **Question:** Find two hillslopes with different treatments and record their slope, burn severity, acerage, and final sediment yield.
 
@@ -141,7 +143,7 @@ Continuing with the Gate Creek watershed.
 
 ## Exercise 7: Hillslopes that exceed the Sediment Yield Threshold
 
-**Report:** https://jackson-nakae.github.io/PATH-cost-effective/
+**Report:** [PATH Cost-Effective Report](https://jackson-nakae.github.io/PATH-cost-effective/)
 
 **Question:** Determine the minimum hillslope sediment yield threshold value that results in no hillslopes exceeding the sdyd threshold.
 
