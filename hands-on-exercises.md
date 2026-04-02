@@ -117,3 +117,49 @@ Continuing with the Gate Creek watershed.
 
 **What you should find:** Hillslope 1693 generated the most soil loss. When you locate it on the map, notice that it is a notably steep hillslope — slope is a key driver of erosion.
 
+---
+
+## Exercise 6: Finding Hillslopes Data 
+
+**Report** https://jackson-nakae.github.io/PATH-cost-effective/
+
+**Question:** Find two hillslopes with different treatments and record their slope, burn severity, acerage, and final sediment yield.
+
+**Steps:**
+
+1. Select section 2 in the table of contents.
+2. Scroll to the 'Interactive Map of Selected Hillslopes' in section 2.1.
+3. Hover over various hillslopes on the map to get hillslope specific info.
+4. The different shades of green represent the different mulch treatments as indicated in the legend in the lower right hand corner of the map.
+5. Find two hillslopes of different green shades.
+6. Hover over each and record their slope, burn severity, acreage, and final sediment yield
+
+
+**What you should find:** This map allows you to easily access hillslope specific information. The hillslopes that PATH recomends recieve treatment are those shaded in green. Treatments of larger quantities are often recommended on hillslopes with a large sediment yield (sdyd) post-fire, steeper slopes, and/or those that have been burned more severely. 
+
+---
+
+## Exercise 7: Hillslopes that exceed the Sediment Yield Threshold
+
+**Report**https://jackson-nakae.github.io/PATH-cost-effective/
+
+**Question:** Determine the minimum hillslope sediment yield threshold value that results in no hillslopes exceeding the sdyd threshold.
+
+**Steps:**
+
+1. Select section 3 from the table of contents.
+2. Scroll to the 'Interactive Hillslope Selection Map' in section 3.1.
+3. Using the Hillslope Sediment Yield Threshold slider, reduce the threshold to zero, you should see many hillslopes outlined in red. (hillslopes outlined in red indicate a failure to meet the Sediment Yield Threshold)
+4. Now increase this threshold until there are no hillslopes outlined in red and STOP.
+5. Record the Sediment Yield Threshold value indicated on the slider.
+
+**What you should find:** Once the Hillslope Sediment Yield Threshold reaches a value of **9 tons/acre** there are no longer any hillslopes outlined in red. This means that after the recommended treatments all hillslopes considered for treatment will meet this threshold.
+
+---
+
+## You May Notice ##
+
+After exploring the features of this interactive map in section 3.1 may notice that even under the strictest threshold values not all hillslopes in the catchment are recieving treatment. This is because for this example PATH used Omni Contrasts Cumalative Objective Parameter mode with a 90% Cumulative Objective Threshold Fraction on Soil Loss. Therefore the only hillslopes considered for treatment are those that contribute to soil loss up to this threshold.
+
+
+
