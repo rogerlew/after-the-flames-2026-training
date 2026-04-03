@@ -125,19 +125,19 @@ Continuing with the Gate Creek watershed.
 
 **Report:** [PATH Cost-Effective Report](https://jackson-nakae.github.io/PATH-cost-effective/)
 
-**Question:** Find two hillslopes with different treatments and record their slope, burn severity, acerage, and final sediment yield.
+**Exercise:** Identify two hillslopes on the map with different treatments and record their slope, burn severity, acreage, and final sediment yield.
 
 **Steps:**
 
-1. Select section 2 in the table of contents.
+1. Select Section 2 in the Table of Contents.
 2. Scroll to the 'Interactive Map of Selected Hillslopes' in section 2.1.
-3. Hover over various hillslopes on the map to get hillslope specific info.
-4. The different shades of green represent the different mulch treatments as indicated in the legend in the lower right hand corner of the map.
-5. Find two hillslopes of different green shades.
-6. Hover over each and record their slope, burn severity, acreage, and final sediment yield
+3. Use you mouse to hover over a hillslope on the map to see information for each hillslope.
+4. Note that different shades of green represent the different mulch treatments (0.5 tons/acre, 1 ton/acre, and 2 tons/acre) as indicated in the legend in the lower right-hand corner of the map.
+5. Now identify two hillslopes with different mulch treatments (as shown through different shades of green).
+6. Hover over each and take note of the following information: slope, burn severity, acreage, and final sediment yield.
 
 
-**What you should find:** This map allows you to easily access hillslope specific information. The hillslopes that PATH recomends recieve treatment are those shaded in green. Treatments of larger quantities are often recommended on hillslopes with a large sediment yield (sdyd) post-fire, steeper slopes, and/or those that have been burned more severely. 
+**What you should find:** The map allows you to access the information for each hillslope by hovering over the desired hillslope. Hillslopes with various green shades are those that PATH recomends recieve treatment. Mulch treatments of larger quantities (darker green shades) are often recommended on hillslopes with a large sediment yield (sdyd) post-fire, steep slopes, and/or those that have been burned more severely. 
 
 ---
 
@@ -145,13 +145,13 @@ Continuing with the Gate Creek watershed.
 
 **Report:** [PATH Cost-Effective Report](https://jackson-nakae.github.io/PATH-cost-effective/)
 
-**Question:** Determine the minimum hillslope sediment yield threshold value that results in no hillslopes exceeding the sdyd threshold.
+**Question:** What is the minimum Hillslope Sediment Yield Threshold value that results in no hillslopes exceeding the sdyd threshold?
 
 **Steps:**
 
-1. Select section 3 from the table of contents.
-2. Scroll to the 'Interactive Hillslope Selection Map' in section 3.1.
-3. Using the Hillslope Sediment Yield Threshold slider, reduce the threshold to zero, you should see many hillslopes outlined in red. (hillslopes outlined in red indicate a failure to meet the Sediment Yield Threshold)
+1. Select Section 3 from the Table of Contents.
+2. Scroll to the 'Interactive Hillslope Selection Map' in Section 3.1.
+3. Using the Hillslope Sediment Yield Threshold slider, reduce the threshold to zero. You should see many hillslopes outlined in red. Hillslopes are outlined in red when thier sediment yield does not meet the Sediment Yield Threshold despite recieving the most effective treatment.
 4. Now increase this threshold until there are no hillslopes outlined in red and STOP.
 5. Record the Sediment Yield Threshold value indicated on the slider.
 
@@ -159,7 +159,7 @@ Continuing with the Gate Creek watershed.
 
 ## You May Notice ##
 
-After exploring the features of this interactive map in section 3.1 may notice that even under the strictest threshold values not all hillslopes in the catchment are recieving treatment. This is because for this example PATH used Omni Contrasts Cumalative Objective Parameter mode with a 90% Cumulative Objective Threshold Fraction on Soil Loss. Therefore the only hillslopes considered for treatment are those that contribute to soil loss up to this threshold.
+After exploring the features of this interactive map in section 3.1 you may notice that even under the strictest threshold values not all hillslopes in the catchment are receiving treatment. This is because in this example PATH used Omni Contrasts Cumulative Objective Parameter mode with a 90% Cumulative Objective Threshold Fraction on Soil Loss. Therefore, the only hillslopes considered for treatment are those that contribute to soil loss up to this threshold.
 
 
 
