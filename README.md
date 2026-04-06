@@ -39,6 +39,7 @@ The session is divided between an overview of the tools and hands-on group work 
 
 - [Hands-On Exercises](hands-on-exercises.md) -- Question-oriented exercises using pre-loaded WEPPcloud projects
 - [Takeaways / Discussion](takeaways-discussion.md) -- Resources, final questions, and post-workshop follow-up
+- [Workshop Flyer](workshop_flyer.md) -- Workshop flyer details
 
 ---
 
