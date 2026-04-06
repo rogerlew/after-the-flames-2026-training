@@ -23,20 +23,22 @@ The session is divided between an overview of the tools and hands-on group work 
 | Time | Duration | Session |
 |------|----------|---------|
 | 1:00 PM -- 1:30 PM | 30 min | **WEPP Model & WEPPcloud Background** -- Presentation on the WEPP model and WEPPcloud platform |
-| 1:30 PM -- 2:30 PM | 60 min | **WEPPcloud Walkthrough** -- Hands-on guided walkthrough of WEPPcloud |
+| 1:30 PM -- 1:50 PM | 20 min | **WEPPcloud Primer** -- Introductory setup, account basics, and interface orientation |
+| 1:50 PM -- 2:30 PM | 40 min | **WEPPcloud Walkthrough** -- Hands-on guided walkthrough of WEPPcloud |
 | 2:30 PM -- 2:45 PM | 15 min | *Break* |
 | 2:45 PM -- 3:15 PM | 30 min | **OMNI Walkthrough** -- Running multiple treatment scenarios simultaneously |
 | 3:15 PM -- 3:30 PM | 15 min | **PATH Presentation** -- Overview of the PATH optimization model |
 | 3:30 PM -- 3:45 PM | 15 min | **PATH Demo** -- Live demonstration of PATH |
 | 3:45 PM -- 4:15 PM | 30 min | **WEPP Results** -- Interpreting and analyzing WEPPcloud outputs |
-| 4:15 PM -- 4:40 PM | 25 min | **[Hands-On Exercises](hands-on-exercises.md)** -- Using WEPPcloud and PATH results |
-| 4:40 PM -- 5:00 PM | 20 min | **Takeaways / Discussion** -- Resources, feedback, and next steps |
+| 4:15 PM -- 4:40 PM | 25 min | **[Hands-On Exercises](hands-on-exercises.md)** -- Question-oriented user discovery exercises |
+| 4:40 PM -- 5:00 PM | 20 min | **[Takeaways / Discussion](takeaways-discussion.md)** -- Resources, feedback, and next steps |
 
 ---
 
 ## Workshop Materials
 
 - [Hands-On Exercises](hands-on-exercises.md) -- Question-oriented exercises using pre-loaded WEPPcloud projects
+- [Takeaways / Discussion](takeaways-discussion.md) -- Resources, final questions, and post-workshop follow-up
 
 ---
 
@@ -50,6 +52,12 @@ The session is divided between an overview of the tools and hands-on group work 
 | Mariana Dobre | University of Idaho |
 | Anna Maher | USDA Forest Service, Pacific Northwest Research Station |
 | Sonja Kolstoe | USDA Forest Service, Pacific Northwest Research Station |
+
+---
+
+## Funding Credit
+
+This workshop was supported by the USDA Forest Service - Wildfire and Water Security Research Project.
 
 ---
 

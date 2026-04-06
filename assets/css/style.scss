@@ -1,0 +1,8 @@
+---
+---
+@import "jekyll-theme-primer";
+
+/* Hide the theme-injected repo/site title at the top of each page */
+.markdown-body > h1:first-child {
+  display: none;
+}

@@ -4,33 +4,37 @@
 
 ---
 
-## 1:00 PM – 1:30 PM | WEPP Model & WEPPcloud Background (45 min)
+## 1:00 PM – 1:30 PM | WEPP Model & WEPPcloud Background (30 min)
 
-- Introductions
+- Introductions (2 min)
   - Roger
   - Jackson
-- Poll
+- Poll (3 min)
   - who is new to WEPP/WEPPcloud?
   - hydrologists?
   - soil scientists?
   - land manageers?
   - other?
-- WEPPcloud Introduction
+- WEPPcloud Introduction (3 min)
   - What is WEPPcloud?
-  - Who develops WEPPcloud
+  - Who develops WEPPcloud (1 min)
     - University of Idaho
     - Forest Service Support
-  - Use Cases
+  - Use Cases (4 min)
     - pre- and post-fire
     - utility watershed management
     - academic research
     - agriculture
-- models available on WEPPcloud:
+- Models available on WEPPcloud: (9 min)
   - WEPP
-  - WATAR
+  - WATAR/Ash Transport
   - Debris Flow
-  - WEPP/SWAT+
   - Gridded RUSLE
+  - Culvert Modeling
+  - Revegetation
+  - Agricultural Fields
+  - WEPP/SWAT+
+  - WEPP DSS Export for HEC RAS
 - FAQ
   - How big of watersheds can be modeled? 2,500 hillslopes recommended. patience is becoming the limiting factor.
   - Reservoirs? no
@@ -40,9 +44,10 @@
 
 ## 1:30 PM – 1:50 PM | WEPPcloud Primer (20 min)
 
-- WEPPcloud modeling primer
-  - Erin's talk currently (22 slides)
+- WEPPcloud Modeling
+- (Un)Disturbed Modeling
 - WEPPcloud Primer and Walkthrough
+  - Hardware requirements
   - User accounts
     - Features
       - bypass CAPTCHA
@@ -57,24 +62,24 @@
       - available interfaces
   - Questions
 
-## 1:50 PM – 2:30 PM | WEPPcloud Primer (40 min)
-  - Creating a run
-    - Orientation to the run page (UI orientation)
-      - Name
-      - Scenario
-      - README
-      - FORK
-      - ARCHIVE
-      - Mods menu
-        - what are mods
-      - More menu
-    - File/Directory based projects
-      - Open/transparent through file browser
-      - Orientation to directory structure
-      - nodb files
-    - Integrated documentation
+## 1:50 PM – 2:30 PM | WEPPcloud Walkthrough (40 min)
   - Quick start walk through with WEPPcloud-WBT
     - What is WBT v. TOPAZ
+    - Creating a run
+      - Orientation to the run page (UI orientation)
+        - Name
+        - Scenario
+        - README
+        - FORK
+        - ARCHIVE
+        - Mods menu
+          - what are mods
+        - More menu
+      - File/Directory based projects
+        - Open/transparent through file browser
+        - Orientation to directory structure
+        - nodb files
+      - Integrated documentation
     - SBS upload
       - map requirements
       - color table discovery
@@ -140,7 +145,7 @@
 - GL-Dashboard
 - WEPP Interchange parquet files
 
-## 4:15 PM – 4:40 PM | Hands-On Exercises (40 min)
+## 4:15 PM – 4:40 PM | Hands-On Exercises (25 min)
 
 **Question-oriented user discovery exercises**
 

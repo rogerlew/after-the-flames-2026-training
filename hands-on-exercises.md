@@ -12,7 +12,7 @@ Use the pre-loaded WEPPcloud project to answer the questions below. Work individ
 
 ## Exercise 1: Exploring Soil Properties Across the Watershed
 
-**Project:** [neurogenic-pendant/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/neurogenic-pendant/disturbed9002_wbt/)
+**Project:** [aversive-forestry/disturbed9002_wbt](https://wepp.cloud/weppcloud/runs/aversive-forestry/disturbed9002_wbt/)
 
 **Question:** Does the lower end of the watershed have more or less rock content than the upper portion?
 
@@ -20,7 +20,7 @@ Use the pre-loaded WEPPcloud project to answer the questions below. Work individ
 
 1. From the project run page, navigate to the **Run Results** section by clicking on **WEPP** in the **Preflight and navigation** panel and then look for the **Run Results** section after **WEPP**
 2. Open the **GL-Dashboard** and wait for it to load
-3. Go to the **Soils** section and select **"Rock content (%)"** to display the choropleth map
+3. Go to the **Soils** section in the layer panel on the left and select **"Rock content (%)"** to display the choropleth map. You may need to scroll down to find the **Soils**
 4. Hover over hillslopes in the upper and lower portions of the watershed to compare their rock content values
 
 **What you should find:** The lower portion of the watershed has notably lower rock content than the upper portion.
